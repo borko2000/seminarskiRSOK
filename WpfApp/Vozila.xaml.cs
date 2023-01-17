@@ -16,6 +16,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
+//fajl kreiran 1.12.2022. godine
+
 namespace WpfApp
 {
     public partial class Vozila : Window
