@@ -1,0 +1,321 @@
+﻿<Window x:Class="WpfApp.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="LoginView" Height="1000" Width="1870"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True"
+        MouseDown="Window_MouseDown">
+    <Border CornerRadius="12">
+        <Border.Background>
+            <ImageBrush ImageSource="slika2.jpg"
+                        Stretch="None"/>
+        </Border.Background>
+        <Border CornerRadius="10"                    
+            BorderThickness="2"
+            Opacity="0.95">
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#462AD8" Offset="0"/>
+                    <GradientStop Color="#DA34AE" Offset="0.75"/>
+                    <GradientStop Color="#8A16C1" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                    <GradientStop Color="#060531" Offset="0"/>
+                    <GradientStop Color="#FF080423" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="25"/>
+                        <ColumnDefinition Width="25"/>
+                        <ColumnDefinition Width="5"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock 
+                               Foreground="DarkGray"
+                               FontSize="10"
+                               FontFamily="Spectral"
+                               Grid.Column="0"
+                               VerticalAlignment="Center"
+                               Margin="10,0,0,0"/>
+                    <Button x:Name="btnMinimize"                           
+                            BorderThickness="0"
+                            Content="-"
+                            Foreground="White"
+                            FontSize="16"
+                            FontFamily="Spectral"
+                            Cursor="Hand"
+                            Grid.Column="1"
+                            Click="btnMinimize_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#28AEED"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#278BEF"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="18" Height="18"
+                                        CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <Button x:Name="btnClose"                          
+                            BorderThickness="0"
+                            Content="X"
+                            Foreground="White"
+                            FontSize="12"
+                            FontFamily="Spectral"
+                            Cursor="Hand"
+                            Grid.Column="2"
+                            Click="btnClose_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#DA34AE"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#C62DAE"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="18" Height="18"
+                                        CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </Grid>
+                <StackPanel Width="500
+                            "
+                            Grid.Row="1"
+                            Margin="0,0,0,0">
+                    <StackPanel Orientation="Horizontal"
+                                HorizontalAlignment="Center"
+                                Margin="0,15,0,0"/>
+                </StackPanel>
+                <Border Width="150" Height="40"
+                                        CornerRadius="20"
+                                        >
+                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                </Border>
+                <Button x:Name="btnRadnici"                          
+                    BorderThickness="0"
+                    Content="RADNICI"
+                    Foreground="White"
+                    FontSize="25"
+                    FontFamily="Spectral"
+                    Cursor="Hand"                           
+                    Margin="87,654,1545,213"
+                    Click="btnRadnici_Click" Grid.Row="1">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="Auto" Height="90                                     "
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}" Margin="0,0,0,0">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button x:Name="btnTehnicki"                          
+                    BorderThickness="0"
+                    Content="TEHNIČKI"
+                    Foreground="White"
+                    FontSize="25"
+                    FontFamily="Spectral"
+                    Cursor="Hand"                           
+                    Margin="464,654,1168,213" Grid.Row="1" Click="btnTehnicki_Click">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="Auto" Height="90                                     "
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}" Margin="0,0,0,0">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button x:Name="btnReg"                          
+                    BorderThickness="0"
+                    Content="REGISTRACIJA"
+                    Foreground="White"
+                    FontSize="25"
+                    FontFamily="Spectral"
+                    Cursor="Hand"                           
+                    Margin="464,654,1168,213"
+                    Click="btnReg_Click" Grid.Row="1">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="Auto" Height="90                                     "
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}" Margin="0,0,0,0">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Image Source="/slike/Logo3.png" Margin="798,10,810,811" Grid.Row="1"/>
+                <TextBlock x:Name="txtDobrodosli" Text="DOBRODOŠLI IME PREZIME"
+                    Foreground="White"
+                    FontSize="45"
+                    FontWeight="Medium"
+                    FontFamily="Spectral"
+                    HorizontalAlignment="Left" Margin="343,160,0,0" RenderTransformOrigin="0.517,-0.044" Height="86" Width="1213" VerticalAlignment="Top" ScrollViewer.VerticalScrollBarVisibility="Disabled" TextAlignment="Center" Grid.Row="1"/>
+                <Button x:Name="btnVozila"                          
+                    BorderThickness="0"
+                    Content="VOZILA"
+                    Foreground="White"
+                    FontSize="25"
+                    FontFamily="Spectral"
+                    Cursor="Hand"                           
+                    Margin="1542,654,90,214"
+                    Click="btnVozila_Click" Grid.Row="1">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="Auto" Height="90                                     "
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}" Margin="0,0,0,0">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button x:Name="btnTermin"                          
+                    BorderThickness="0"
+                    Content="TERMINI"
+                    Foreground="White"
+                    FontSize="25"
+                    FontFamily="Spectral"
+                    Cursor="Hand"                           
+                    Margin="1172,654,460,213"
+                    Click="btnTermin_Click" Grid.Row="1">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="Auto" Height="90                                     "
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}" Margin="0,0,0,0">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button x:Name="btnLogout"                          
+                    BorderThickness="0"
+                    Content="LOG OUT"
+                    Foreground="White"
+                    FontSize="25"
+                    FontFamily="Spectral"
+                    Cursor="Hand"                           
+                    Margin="814,378,818,489"
+                    Click="btnLogout_Click" Grid.Row="1">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="Auto" Height="90                                     "
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}" Margin="0,0,0,0">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+
+            </Grid>
+        </Border>
+
+    </Border>
+</Window>

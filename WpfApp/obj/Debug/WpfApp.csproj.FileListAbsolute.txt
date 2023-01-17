@@ -1,0 +1,299 @@
+E:\vs\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+E:\vs\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+E:\vs\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+E:\vs\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+E:\vs\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+E:\vs\WpfApp\WpfApp\obj\Debug\App.g.cs
+E:\vs\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+E:\vs\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+E:\vs\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+E:\vs\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+E:\vs\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+E:\vs\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+E:\vs\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+E:\vs\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+E:\vs\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+E:\vs\WpfApp\WpfApp\bin\Debug\Properties\Resources.resx
+E:\vs\WpfApp\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+E:\vs\WpfApp\WpfApp\obj\Debug\Radnik.g.cs
+E:\vs\WpfApp\WpfApp\obj\Debug\Radnik.baml
+E:\vs\WpfApp\WpfApp\obj\Debug\Info.g.cs
+E:\vs\WpfApp\WpfApp\obj\Debug\Reg.g.cs
+E:\vs\WpfApp\WpfApp\obj\Debug\Tehnicki.g.cs
+E:\vs\WpfApp\WpfApp\obj\Debug\Termin.g.cs
+E:\vs\WpfApp\WpfApp\obj\Debug\Info.baml
+E:\vs\WpfApp\WpfApp\obj\Debug\Reg.baml
+E:\vs\WpfApp\WpfApp\obj\Debug\Tehnicki.baml
+E:\vs\WpfApp\WpfApp\obj\Debug\Termin.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\bin\Debug\Properties\Resources.resx
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Info.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Radnik.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Reg.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Tehnicki.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Termin.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\App.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Info.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Radnik.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Reg.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Tehnicki.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Termin.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Admin.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\Vozila.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\RegistracijaVozila.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp\WpfApp\obj\Debug\TehnickiPregled.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\MainWindow.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\Admin.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\App.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\WpfApp.exe
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\WpfApp.pdb
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\MainWindow.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\bin\Debug\Properties\Resources.resx
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\bin\Debug\WpfApp.exe.config
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\bin\Debug\WpfApp.exe
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\bin\Debug\WpfApp.pdb
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\Admin.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\WpfApp.g.resources
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP SREDJENA MAPA\WpfApp\obj\Debug\Radnik.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\bin\Debug\Properties\Resources.resx
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\bin\Debug\WpfApp.exe.config
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\bin\Debug\WpfApp.exe
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\bin\Debug\WpfApp.pdb
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\MainWindow.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\Admin.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\Radnik.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\App.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\MainWindow.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\Admin.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\Radnik.baml
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\WpfApp.g.resources
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\WpfApp.exe
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\WpfApp.pdb
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\TehnickiPregled.g.cs
+E:\Fakultet\Razvoj softvera otvorenog koda\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN\WpfApp\obj\Debug\TehnickiPregled.baml
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.g.cs
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.g.cs
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\App.g.cs
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.resx
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.baml
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.baml
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.baml
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.resx
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.g.cs
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.g.cs
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.baml
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.baml
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.baml
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.g.cs
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.baml
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.g.cs
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.baml
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.g.cs
+C:\Users\Admin\Desktop\PROJEKAT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.baml
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.resx
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.g.cs
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.g.cs
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.g.cs
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.g.cs
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.g.cs
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.baml
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.baml
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.baml
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.baml
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.baml
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.baml
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Admin\Desktop\PROJEKATTT\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.pdb
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.resx
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe.config
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.pdb
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.g.cs
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.g.cs
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.g.cs
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.g.cs
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.g.cs
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.g.cs
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.g.cs
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\App.g.cs
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.baml
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.baml
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.baml
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.baml
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.baml
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.baml
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.baml
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.g.resources
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.exe
+G:\Novo\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.resx
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.g.cs
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.g.cs
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.g.cs
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.g.cs
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.g.cs
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.baml
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.baml
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.baml
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.baml
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.baml
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.baml
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Admin\Desktop\Bokijev projekat\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.pdb
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.resx
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe.config
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.pdb
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.g.cs
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.g.cs
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.g.cs
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.g.cs
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.g.cs
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.g.cs
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.g.cs
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\App.g.cs
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.baml
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.baml
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.baml
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.baml
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.baml
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.baml
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.baml
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.g.resources
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.exe
+D:\Fakultet\Razvoj softvera otvorenog koda\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.resx
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.g.cs
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.g.cs
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.g.cs
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.g.cs
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.g.cs
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Admin.baml
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Radnik.baml
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\RegistracijaVozila.baml
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\TehnickiPregled.baml
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Termin.baml
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\Vozila.baml
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Admin\Desktop\KRAJ KRAJ\WpfApp - BEKAP MAIN ADMIN LOGIN NAJDALJE STIGAO\WpfApp\obj\Debug\WpfApp.csproj.SuggestedBindingRedirects.cache
