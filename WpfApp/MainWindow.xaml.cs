@@ -18,9 +18,9 @@ using System.Windows.Shapes;
 
 namespace WpfApp
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    /*
+        fajl kreiran 28.11.2022.
+    */
     /// 
     public class admin_ulogovan_class
     {
